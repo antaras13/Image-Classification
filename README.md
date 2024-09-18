@@ -1,1 +1,3 @@
-# Image-Classification
+# About The Project
+In this project, I built a Convolutional Neural Network (CNN) model, focusing on key parameters that enhance its ability to detect features and learn efficiently. The CNN architecture consisted of several Conv2D layers, where the number of filters played a crucial role in determining the variety of features the model could detect. Each filter allowed the network to capture specific patterns in the input data, enabling the model to learn more diverse and intricate details.
+One of the essential components of the CNN was the ReLU activation function, which injected non-linearity into the model. ReLU (Rectified Linear Unit) helped the network recognize complex patterns and relationships in the data, facilitating efficient learning. This activation function is particularly valuable in deep learning because it helps alleviate the vanishing gradient issue, ensuring smoother and faster training of the model.
